@@ -1,0 +1,7 @@
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\bin\Debug\10 Handle In Statement.exe.config
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\bin\Debug\10 Handle In Statement.exe
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\bin\Debug\10 Handle In Statement.pdb
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\obj\Debug\10 Handle In Statement.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\obj\Debug\10 Handle In Statement.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\obj\Debug\10 Handle In Statement.exe
+D:\C#\18 C# & Database Connectivity\10 Handle In Statement\10 Handle In Statement\obj\Debug\10 Handle In Statement.pdb
