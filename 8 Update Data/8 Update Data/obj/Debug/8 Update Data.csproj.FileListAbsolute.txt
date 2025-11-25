@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\bin\Debug\8 Update Data.exe.config
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\bin\Debug\8 Update Data.exe
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\bin\Debug\8 Update Data.pdb
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\obj\Debug\8 Update Data.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\obj\Debug\8 Update Data.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\obj\Debug\8 Update Data.exe
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\obj\Debug\8 Update Data.pdb
+D:\C#\18 C# & Database Connectivity\8 Update Data\8 Update Data\obj\Debug\8 Update Data.exe.config
