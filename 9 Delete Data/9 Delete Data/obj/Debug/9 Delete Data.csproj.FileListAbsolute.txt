@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\bin\Debug\9 Delete Data.exe.config
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\bin\Debug\9 Delete Data.exe
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\bin\Debug\9 Delete Data.pdb
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\obj\Debug\9 Delete Data.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\obj\Debug\9 Delete Data.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\obj\Debug\9 Delete Data.exe
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\obj\Debug\9 Delete Data.pdb
+D:\C#\18 C# & Database Connectivity\9 Delete Data\9 Delete Data\obj\Debug\9 Delete Data.exe.config
