@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\bin\Debug\4  Retrieve a Single Value (ExecuteScalar).exe.config
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\bin\Debug\4  Retrieve a Single Value (ExecuteScalar).exe
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\bin\Debug\4  Retrieve a Single Value (ExecuteScalar).pdb
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\obj\Debug\4  Retrieve a Single Value (ExecuteScalar).csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\obj\Debug\4  Retrieve a Single Value (ExecuteScalar).csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\obj\Debug\4  Retrieve a Single Value (ExecuteScalar).exe
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\obj\Debug\4  Retrieve a Single Value (ExecuteScalar).pdb
+D:\C#\18 C# & Database Connectivity\4  Retrieve a Single Value (ExecuteScalar)\4  Retrieve a Single Value (ExecuteScalar)\obj\Debug\4  Retrieve a Single Value (ExecuteScalar).exe.config
