@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\bin\Debug\ADO.NET Code - Get ALL Contacts.exe.config
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\bin\Debug\ADO.NET Code - Get ALL Contacts.exe
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\bin\Debug\ADO.NET Code - Get ALL Contacts.pdb
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\obj\Debug\ADO.NET Code - Get ALL Contacts.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\obj\Debug\ADO.NET Code - Get ALL Contacts.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\obj\Debug\ADO.NET Code - Get ALL Contacts.exe
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\obj\Debug\ADO.NET Code - Get ALL Contacts.pdb
+D:\C#\18 C# & Database Connectivity\ADO.NET Code - Get ALL Contacts\ADO.NET Code - Get ALL Contacts\obj\Debug\ADO.NET Code - Get ALL Contacts.exe.config
