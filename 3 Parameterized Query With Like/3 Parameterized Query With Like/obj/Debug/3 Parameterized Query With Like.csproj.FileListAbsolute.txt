@@ -1,0 +1,8 @@
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\bin\Debug\3 Parameterized Query With Like.exe.config
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\bin\Debug\3 Parameterized Query With Like.exe
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\bin\Debug\3 Parameterized Query With Like.pdb
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\obj\Debug\3 Parameterized Query With Like.csproj.AssemblyReference.cache
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\obj\Debug\3 Parameterized Query With Like.csproj.CoreCompileInputs.cache
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\obj\Debug\3 Parameterized Query With Like.exe
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\obj\Debug\3 Parameterized Query With Like.pdb
+D:\C#\18 C# & Database Connectivity\3 Parameterized Query With Like\3 Parameterized Query With Like\obj\Debug\3 Parameterized Query With Like.exe.config
